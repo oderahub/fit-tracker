@@ -9,6 +9,8 @@ FitTrack is a simple, intuitive fitness tracking application that helps users lo
 - **Visual Analytics**: View workout data in an interactive bar chart
 - **Filtering**: Filter workouts by type (Run, Lift, etc.)
 - **Responsive Design**: Works on desktop and mobile devices
+- ** streak
+- ** Real-time timer update
 
 ## Tech Stack
 
